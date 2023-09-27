@@ -20,7 +20,7 @@
 
 ## تصفح المشروع 
 
-تصفح المشروع: [رابط-المشروع](https://alshaercode.github.io/My_personal_Website_using_Bootstrap/)
+تصفح المشروع: [رابط-المشروع](https://alshaercode.github.io/Portfolio-Website-using-only-Bootstrap/)
 
 ## صورة المشروع 
 ![صورة الموقع](https://github.com/alshaercode/Portfolio-Website-using-only-Bootstrap/assets/120109352/0400e704-2a36-40b5-8057-bcba9f88ea93)
